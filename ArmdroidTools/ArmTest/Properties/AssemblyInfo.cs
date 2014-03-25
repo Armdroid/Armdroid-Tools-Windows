@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("WinArmTest")]
 [assembly: AssemblyDescription("Windows Armdroid Test")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("http://armdroid1.blogspot.co.uk")]
+[assembly: AssemblyCompany("Armdroid")]
 [assembly: AssemblyProduct("ArmTest")]
-[assembly: AssemblyCopyright("Copyright Â© Richard Morris 2014")]
+[assembly: AssemblyCopyright("Copyright © Richard Morris 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
