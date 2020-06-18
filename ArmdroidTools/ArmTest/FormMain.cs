@@ -1,7 +1,7 @@
 /*
  * Armdroid Test for Windows
  * 
- * Copyright (C) Richard Morris 2014 - 2020
+ * Copyright (C) Richard K. Morris 2014 - 2020
  * http://armdroid1.blogspot.co.uk
  * 
  */
